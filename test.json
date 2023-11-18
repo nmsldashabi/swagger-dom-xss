@@ -1,0 +1,9 @@
+{
+    "url": "https://nmsldashabi.github.io/swagger-dom-xss/test.yaml",
+    "urls": [
+        {
+            "url": "https://nmsldashabi.github.io/swagger-dom-xss/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
